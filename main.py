@@ -30,6 +30,6 @@
 #info.GetInfo()
 #info.ploshca()
 #infofo1.ploshca()
-
+print("test commit")
 
 
